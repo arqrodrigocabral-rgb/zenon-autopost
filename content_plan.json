@@ -1,0 +1,9 @@
+{
+  "marca": "zenon co.",
+  "pilares": [
+    {"id":"projetos","peso":3,"temas":["sala de estar integrada a natureza na serra","fachada residencial biofilica","banheiro com pedra natural e luz zenital","cozinha em madeira clara e barro","quarto sereno com vista para a mata"]},
+    {"id":"sensorial","peso":2,"temas":["o papel da luz natural no bem-estar","biofilia urbana: o verde que acalma","texturas naturais que acalmam o corpo","o silencio como material de projeto"]},
+    {"id":"processo","peso":2,"temas":["do croqui ao render","escolha de materiais naturais","detalhe construtivo em madeira","estudo de iluminacao de um ambiente"]},
+    {"id":"gestao","peso":1,"temas":["como comeca um projeto zenon","gestao de obra com transparencia"]}
+  ]
+}
